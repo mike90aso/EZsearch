@@ -21,6 +21,16 @@ const locations = [
     link: "locations/winter-haven-fl.html"
   },
   {
+    name: "Anna Laurance Pinellas Park DOT Physicals",
+    address: "8695 66th Street N",
+    city: "Pinellas Park",
+    state: "FL",
+    zip: "33782",
+    lat: 27.8508,
+    lng: -82.7284,
+    link: "locations/anna-laurance-pinellas-park.html"
+  },
+  {
     name: "Ascend Chiropractic",
     address: "5611 NW 1st St Suite 105",
     city: "Lincoln",
@@ -241,13 +251,13 @@ const locations = [
     link: "locations/spectrum-gresham.html"
   },
   {
-    name: "Tomoka Spine and Posture",
-    address: "595 W Granada Blvd Unit G",
+    name: "Ormond Beach DOT Physicals",
+    address: "196 Vining Court",
     city: "Ormond Beach",
     state: "FL",
-    zip: "32174",
-    lat: 29.2858,
-    lng: -81.0909,
+    zip: "32176",
+    lat: 29.2896,
+    lng: -81.0427,
     link: "locations/tomoka-ormond.html"
   },
   {
@@ -269,16 +279,6 @@ const locations = [
     lat: 32.7555,
     lng: -97.3308,
     link: "locations/morton-fort-worth.html"
-  },
-  {
-    name: "Daytona Beach DOT Physicals",
-    address: "618 North Ridgewood Ave",
-    city: "Daytona Beach",
-    state: "FL",
-    zip: "32114",
-    lat: 29.2108,
-    lng: -81.0228,
-    link: "locations/daytona-beach-fl.html"
   },
   {
     name: "Clifton D. Okman, DC – Port St. Lucie",

@@ -42,6 +42,7 @@ const majorCities = {
   "tampa": { lat: 27.9506, lng: -82.4572, state: "FL" },
   "st petersburg": { lat: 27.7676, lng: -82.6403, state: "FL" },
   "clearwater": { lat: 27.9659, lng: -82.8001, state: "FL" },
+  "pinellas park": { lat: 27.8428, lng: -82.6995, state: "FL" },
   "brandon": { lat: 27.9378, lng: -82.2859, state: "FL" },
   "lakeland": { lat: 28.0395, lng: -81.9498, state: "FL" },
   "winter haven": { lat: 28.0222, lng: -81.7329, state: "FL" },
